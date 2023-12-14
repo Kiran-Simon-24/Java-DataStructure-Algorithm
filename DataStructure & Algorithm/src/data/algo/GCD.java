@@ -1,3 +1,5 @@
+package data.algo;
+
 
 public class GCD {
 
